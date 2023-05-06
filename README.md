@@ -5,4 +5,4 @@
 ---
 
 This is based on a blog post I wrote on my
-website: [How to Programmatically Create Virtual Pages in WordPress](https://fabiancdng.com/blog/how-to-create-virtual-pages-in-wordpress)
+website: [How to Create Virtual Pages in WordPress](https://fabiancdng.com/blog/how-to-create-virtual-pages-in-wordpress)
